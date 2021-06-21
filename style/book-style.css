@@ -1,0 +1,390 @@
+@charset "UTF-8";
+@import "style-reset.css";
+@import "style-standard.css";
+@import "style-advance.css";
+
+/* -------------------------------------------------------------
+Windows でチェックするときは以下の指定を利用
+※チェックが済んだら必ず削除かコメントアウトすること
+@import "style-check.css";
+---------------------------------------------------------------- */
+
+
+
+/* ファイル情報
+----------------------------------------------------------------
+【内容】
+外部 CSS の一括読み込み と 作品別カスタマイズ指定
+
+【CSSファイルバージョン】
+ver.1.1.1
+
+【当ファイル更新時の電書協EPUB 3 制作ガイドバージョン】
+ver.1.1.3
+
+【細目】
+・外部 CSS の import
+・作品別カスタマイズ領域
+
+【更新履歴】
+2014/11/01 ver.1.1.1
+・「特殊リンク指定」を追加
+・「注釈リンクの下線と色」を変更
+
+2012/12/07 ver.1.1.0
+・ファイル更新時の電書協EPUB 3 制作ガイドバージョン表記を追加
+
+2012/08/21 ver.1.0b1
+・公開版
+---------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------
+ * 作品別カスタマイズ領域
+ * ------------------------------------------------------------- */
+
+.color-blue01 { color:#003b87; }
+.color-blue02 { color:#15599f; }
+.color-mission01 { color:#a72126; }
+.color-mission02 { color:#612468; }
+.color-mission03 { color:#003b87; }
+.color-mission04 { color:#00693e; }
+.color-mission05 { color:#9f7126; }
+.color-info { color:#595757; }
+
+
+.midashi1 {
+ line-height:1.2;
+ font-size: 150%;
+ margin-bottom :1em ;
+}
+
+.naka-midashi1 {
+ line-height:1.2;
+ margin:1em 0 0.5em 0 ;
+ font-size: 110%;
+}
+
+table {
+ border: solid 1px #000;
+ border-collapse: collapse;
+ margin: 0;
+}
+table.midashi {
+ margin: 1em 0;
+}
+
+th {
+ font-weight: normal;
+ border: solid 1px #000;
+ padding:0.3em;
+ text-align: left;
+ vertical-align:middle;
+
+}
+th.mission03 {
+ background-color: #cac6b5;
+}
+th.mission04 {
+ color:#fff;
+ background-color: #00693e;
+}
+th.info {
+ background-color: #cac6b5;
+}
+
+td {
+ font-weight: normal;
+ border: solid 1px #000;
+ padding:0.3em;
+ text-align: left;
+ vertical-align:middle;
+}
+td.bottom-none {
+ border-bottom: none;
+}
+td.top-none {
+ border-top: none;
+}
+
+td.midashi01 {
+ color:#fff;
+ padding:0.3em;
+ text-align: center;
+ vertical-align:middle;
+ background-color:#003b87;
+ font-size: 90%;
+}
+td.midashi02 {
+ line-height:1.2;
+ padding:0.3em;
+ vertical-align:middle;
+ font-size: 110%;
+}
+
+
+/* 見出しのデフォルト書体指定
+---------------------------------------------------------------- */
+/* 横組み用 */
+.hltr h1,
+.hltr h2,
+.hltr h3,
+.hltr h4,
+.hltr h5,
+.hltr h6 {
+  font-family: serif-ja, serif;
+}
+/* 縦組み用 */
+.vrtl h1,
+.vrtl h2,
+.vrtl h3,
+.vrtl h4,
+.vrtl h5,
+.vrtl h6 {
+  font-family: serif-ja-v, serif-ja, serif;
+}
+
+
+/* リンク指定
+---------------------------------------------------------------- */
+/* 基本設定（上：横組み　下：縦組み） */
+.hltr a {
+}
+.vrtl a {
+}
+/* 未訪問リンク */
+a:link {
+}
+/* 訪問済みリンク */
+a:visited {
+}
+/* マウスオーバー時 */
+a:hover {
+}
+/* フォーカス時 */
+a:focus {
+}
+/* アクティブ時 */
+a:active {
+}
+
+
+/* 特殊リンク指定
+---------------------------------------------------------------- */
+/* 基本設定（上：横組み　下：縦組み） */
+
+/* .link-01
+-------------------- */
+.hltr a.link-01 {
+}
+.vrtl a.link-01 {
+}
+/* 未訪問リンク */
+a.link-01:link {
+}
+/* 訪問済みリンク */
+a.link-01:visited {
+}
+/* マウスオーバー時 */
+a.link-01:hover {
+}
+/* フォーカス時 */
+a.link-01:focus {
+}
+/* アクティブ時 */
+a.link-01:active {
+}
+
+/* .link-02
+-------------------- */
+.hltr a.link-02 {
+}
+.vrtl a.link-02 {
+}
+/* 未訪問リンク */
+a.link-02:link {
+}
+/* 訪問済みリンク */
+a.link-02:visited {
+}
+/* マウスオーバー時 */
+a.link-02:hover {
+}
+/* フォーカス時 */
+a.link-02:focus {
+}
+/* アクティブ時 */
+a.link-02:active {
+}
+
+/* .link-03
+-------------------- */
+.hltr a.link-03 {
+}
+.vrtl a.link-03 {
+}
+/* 未訪問リンク */
+a.link-03:link {
+}
+/* 訪問済みリンク */
+a.link-03:visited {
+}
+/* マウスオーバー時 */
+a.link-03:hover {
+}
+/* フォーカス時 */
+a.link-03:focus {
+}
+/* アクティブ時 */
+a.link-03:active {
+}
+
+
+/* 注釈リンクの下線と色 （注釈参照側）
+---------------------------------------------------------------- */
+/* 基本設定（上：横組み　下：縦組み） */
+.hltr a.noteref {
+}
+.vrtl a.noteref {
+}
+/* 未訪問リンク */
+a.noteref:link {
+}
+/* 訪問済みリンク */
+a.noteref:visited {
+}
+/* マウスオーバー時 */
+a.noteref:hover {
+}
+/* フォーカス時 */
+a.noteref:focus {
+}
+/* アクティブ時 */
+a.noteref:active {
+}
+
+
+/* 注釈リンクの下線と色 （注釈内容側）
+---------------------------------------------------------------- */
+/* 基本設定（上：横組み　下：縦組み） */
+.hltr a.note {
+}
+.vrtl a.note {
+}
+/* 未訪問リンク */
+a.note:link {
+}
+/* 訪問済みリンク */
+a.note:visited {
+}
+/* マウスオーバー時 */
+a.note:hover {
+}
+/* フォーカス時 */
+a.note:focus {
+}
+/* アクティブ時 */
+a.note:active {
+}
+
+
+/* 見出しの指定（上：横組み　下：縦組み）
+---------------------------------------------------------------- */
+/* 扉見出し */
+.hltr .tobira-midashi {
+}
+.vrtl .tobira-midashi {
+}
+/* 大見出し */
+.hltr .oo-midashi {
+}
+.vrtl .oo-midashi {
+}
+/* 中見出し */
+.hltr .naka-midashi {
+}
+.vrtl .naka-midashi {
+}
+/* 小見出し */
+.hltr .ko-midashi {
+}
+.vrtl .ko-midashi {
+}
+
+
+/* カバーページ
+----------------------------------------------------------------
+描画領域の余白をゼロに
+デフォルトで左右中央揃えに
+---------------------------------------------------------------- */
+body.p-cover {
+  margin:     0;
+  padding:    0;
+  text-align: center;
+}
+body.p-cover .main {
+}
+
+
+/* 画像のみのページ
+----------------------------------------------------------------
+描画領域の余白をゼロに
+デフォルトで左右中央揃えに
+---------------------------------------------------------------- */
+body.p-image {
+  margin:     0;
+  padding:    0;
+  text-align: center;
+}
+body.p-image .main {
+}
+
+
+/* テキスト中心のページ
+---------------------------------------------------------------- */
+body.p-text {
+}
+body.p-text .main {
+}
+
+
+/* 本扉ページ
+---------------------------------------------------------------- */
+body.p-titlepage {
+}
+body.p-titlepage .main {
+}
+
+
+/* 奥付ページ
+---------------------------------------------------------------- */
+body.p-colophon {
+}
+body.p-colophon .main {
+}
+
+
+/* 目次ページ
+---------------------------------------------------------------- */
+body.p-toc {
+}
+body.p-toc .main {
+}
+
+
+/* 電子版用の注意書きページ
+---------------------------------------------------------------- */
+body.p-caution {
+}
+body.p-caution .main {
+}
+
+
+/* 広告ページ
+---------------------------------------------------------------- */
+body.p-ad {
+}
+body.p-ad .main {
+}
+
+
