@@ -168,6 +168,18 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "92e501ba488500d1",
-  "lastOpenFiles": []
+  "active": "5d0dae9be8c15983",
+  "lastOpenFiles": [
+    "Repository/bibi/resources/scripts/polyfills/desktop.ini",
+    "Repository/Sharing_Knowlege_Archives.V.0.5/item/xhtml/desktop.ini",
+    "Repository/Sharing_Knowlege_Archives.V.0.5/item/style/desktop.ini",
+    "Repository/bibi/resources/styles/desktop.ini",
+    "Repository/bibi/resources/desktop.ini",
+    "Repository/bibi/extensions/extractor/desktop.ini",
+    "Repository/Sharing_Knowlege_Archives.V.0.5/META-INF/desktop.ini",
+    "Repository/bibi/presets/desktop.ini",
+    "Repository/bibi/extensions/desktop.ini",
+    "Repository/bibi-bookshelf/desktop.ini",
+    "style/desktop.ini"
+  ]
 }
