@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★知の共有化（知識インフラの構築を目指して）.md",
+                "file": "Repository/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "★知の共有化（知識インフラの構築を目指して）"
+              "title": "index"
             }
           }
         ]
@@ -207,11 +207,16 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "知の共有化（知識インフラの構築を目指して）/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
+    "Repository/index.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【論文等】アーカイブリスト.md",
+    "★知の共有化（知識インフラの構築を目指して）.md",
     "Config/Templates/BaseTemplate.md",
     "Config/Templates/AnnotationTemplate.md",
     "Config/Templates/BaseTemplate_生成AI.md",
@@ -227,7 +232,6 @@
     "新しいフォルダー",
     "README.md",
     "知の共有化（知識インフラの構築を目指して）/活動記録【論文等】DB【原本】/desktop.ini",
-    "★知の共有化（知識インフラの構築を目指して）.md",
     "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (8).png",
     "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (7).png",
     "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (6).png",
@@ -254,9 +258,6 @@
     "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「知の共有化」に関する資料への Entry Point.md",
     "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/【文書】DAW23-31_知識インフラとしてのナショナルアーカイブの構築を目指して【詳細】.md",
     "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-06-3 「知の共有化」システムの構築に必要なスキル・知識（サイバーセキュリティ対策を含む）.md",
-    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX48-10_2015_見たことのない図書館を考える【2015年1月10日同志社大学】.md",
-    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ.md",
-    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ【Jekyll版】.md",
-    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAW05-00【抜粋】政府の新しいガイドラインによる開発と人材育成.md"
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX48-10_2015_見たことのない図書館を考える【2015年1月10日同志社大学】.md"
   ]
 }
