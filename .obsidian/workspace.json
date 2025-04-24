@@ -150,13 +150,43 @@
               "icon": "lucide-list",
               "title": "READMEのアウトライン"
             }
+          },
+          {
+            "id": "94f15fca83acbee0",
+            "type": "leaf",
+            "state": {
+              "type": "TwoHopLinksView",
+              "state": {},
+              "icon": "network",
+              "title": "2Hop Links"
+            }
+          },
+          {
+            "id": "d64d30d78474fb0c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "a76348ecc42d7c16",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,21 +195,60 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5d0dae9be8c15983",
+  "active": "a76348ecc42d7c16",
   "lastOpenFiles": [
-    "Repository/bibi/resources/scripts/polyfills/desktop.ini",
-    "Repository/Sharing_Knowlege_Archives.V.0.5/item/xhtml/desktop.ini",
-    "Repository/Sharing_Knowlege_Archives.V.0.5/item/style/desktop.ini",
-    "Repository/bibi/resources/styles/desktop.ini",
-    "Repository/bibi/resources/desktop.ini",
-    "Repository/bibi/extensions/extractor/desktop.ini",
-    "Repository/Sharing_Knowlege_Archives.V.0.5/META-INF/desktop.ini",
-    "Repository/bibi/presets/desktop.ini",
-    "Repository/bibi/extensions/desktop.ini",
-    "Repository/bibi-bookshelf/desktop.ini",
-    "style/desktop.ini"
+    "知の共有化（知識インフラの構築を目指して）/活動記録【論文等】DB【原本】/desktop.ini",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB【原本】/DA40_Seminar/desktop.ini",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB【原本】/desktop.ini",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/desktop.ini",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/desktop.ini",
+    "知の共有化（知識インフラの構築を目指して）/Extra/desktop.ini",
+    "知の共有化（知識インフラの構築を目指して）/desktop.ini",
+    "★知の共有化（知識インフラの構築を目指して）.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【論文等】DB【原本】",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB【原本】/DA40_Seminar/DAP42-01-2019-01調達関連抜粋.pptx",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB【原本】/DA40_Seminar/DAW42-01-2018ゼミ用ノート資料【フルセットからの抜粋】ナショナルアーカイブの各機能.docx",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB【原本】/DA40_Seminar/DAW42-01-2018ゼミ用ノート資料【フルセット】20170310【大容量】.docx",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (8).png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (7).png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (6).png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (5) 1.png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (4) 1.png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (3).png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (2).png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled (1).png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled 1 1.png",
+    "知の共有化（知識インフラの構築を目指して）/Extra/Untitled 9 5.png",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】【別紙】第39-40章.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-05 「知の共有化」の実現を目指した構想【2013年】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「知の共有化」に関するドキュメント類の歴史（年次アーカイブ）【GitHub】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX20-04_AIに関する基礎知識（まとめ）.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAW40-01 図書館情報学研究 (図書館システム・オープンデータ) 【docx】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/Bib10-0602「未来の図書館を作るとは」（長尾元館長）で示されたこと【全編】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-04 ICTの急速な発展と図書館を取り巻くサービスの変革.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAP42-01-2020ゼミ用【ポイント】PPT資料 【pptx】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAW19-20_知識インフラの構築.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX41-2_ゼミ課題成果物【例】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-01_図書館情報学研究(図書館システム・オープンデータ) 【ゼミ資料索引】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-06-2 政府情報システムでの標準的な構築プロセス.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「知の共有化」に関する資料への Entry Point.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/【文書】DAW23-31_知識インフラとしてのナショナルアーカイブの構築を目指して【詳細】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-06-3 「知の共有化」システムの構築に必要なスキル・知識（サイバーセキュリティ対策を含む）.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX48-10_2015_見たことのない図書館を考える【2015年1月10日同志社大学】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ【Jekyll版】.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAW05-00【抜粋】政府の新しいガイドラインによる開発と人材育成.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-10【2019年】今後10年の図書館を取り巻く環境の社会環境の変化と図書館サービスシステムの方向性.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX48-01_2020_図書館情報学研究(図書館システム・オープンデータ).md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX40-50【参考】次世代サービス構築及び提供に当たって留意してほしいこと.md",
+    "知の共有化（知識インフラの構築を目指して）/活動記録【プレゼン資料等】DB/DAX92_Seminar_Plan【2020年ゼミ計画】.md"
   ]
 }

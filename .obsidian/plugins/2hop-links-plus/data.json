@@ -8,8 +8,7 @@
   "showPropertiesLinks": true,
   "showImage": true,
   "excludePaths": [
-    "DailyNote/",
-    "業務報告/"
+    ""
   ],
   "initialBoxCount": 10,
   "initialSectionCount": 20,
