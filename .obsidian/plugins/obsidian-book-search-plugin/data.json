@@ -1,0 +1,14 @@
+{
+  "folder": "Book_Search",
+  "fileNameFormat": "{{Title}} - {{Author}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "Config/Templates/Book_Template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "openPageOnCompletion": true
+}

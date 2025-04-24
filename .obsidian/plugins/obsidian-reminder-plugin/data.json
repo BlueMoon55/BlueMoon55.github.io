@@ -1,0 +1,32 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Config/Scripts/MoC_ToDo_Personal_List.md": [
+      {
+        "title": "図書館ガイダンス・ホームカミングデー 出欠連絡 #Personal/ToDo/Active 📅 2025-03-26",
+        "time": "2025-04-29",
+        "rowNumber": 73
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "reminderTimeStep": 15,
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

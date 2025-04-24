@@ -1,0 +1,140 @@
+{
+  "defaultSearchEngine": "google",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "hoverPopover": true,
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": false,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": false,
+  "openInObsidianWeb": false,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": true,
+  "randomBackground": false,
+  "lastOpenedFiles": false,
+  "bookmarkManager": {
+    "openBookMark": true,
+    "saveBookMark": false,
+    "sendToReadWise": false,
+    "pagination": "12",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "tree"
+  },
+  "treeData": [
+    {
+      "id": "0ba13697dae01e3b",
+      "parent": 0,
+      "droppable": true,
+      "text": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "d32a849060230b83",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "9454434dcf081781",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "217281bae1b4da33",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "e2f14c3184d0bbe3",
+      "parent": 0,
+      "droppable": true,
+      "text": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "6e4ab782c9ab900a",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "a9435c8412632c38",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "f025291e418f9872",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": true
+}

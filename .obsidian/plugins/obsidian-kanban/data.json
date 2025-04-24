@@ -1,0 +1,34 @@
+{
+  "new-note-folder": "Kanban",
+  "metadata-keys": [
+    {
+      "metadataKey": "title",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "tags",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "description",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "Author",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ],
+  "date-picker-week-start": 1,
+  "show-checkboxes": true,
+  "link-date-to-daily-note": true,
+  "archive-with-date": true,
+  "new-note-template": "Config/Templates/BaseTemplate.md"
+}
