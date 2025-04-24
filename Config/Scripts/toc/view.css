@@ -1,0 +1,29 @@
+.x-toc {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.x-toc ol {
+  list-style: none;
+}
+
+.x-toc .x-toc__title {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.x-toc .x-toc__list {
+  margin: 0;
+  padding: 0;
+  counter-reset: item;
+}
+
+.x-toc .x-toc__list li::before {
+  counter-increment: item;
+  content: counters(item, '.') ' ';
+}
+
+.x-toc .x-toc__list--level3 {
+  padding-left: 1rem;
+}
