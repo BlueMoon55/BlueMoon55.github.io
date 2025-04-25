@@ -9,5 +9,10 @@
   "dataview",
   "auto-template-trigger",
   "file-tree-alternative",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter",
+  "omnisearch",
+  "obsidian-pandoc",
+  "recent-files-obsidian",
+  "templater-obsidian"
 ]
