@@ -27,17 +27,21 @@ includeLinks: true
 
 [bluemoon55.github.io](https://bluemoon55.github.io/)
 
-# ■「知の共有化」を目指した活動の軌跡貯蔵庫（Github）
+# ■「知の共有化」を目指した活動軌跡の貯蔵庫（Github）
 
-- [BlueMoon55.github.io/History\_of\_activities at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
-- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
+- BlueMoon55.github.io
+	- [BlueMoon55.github.io/History\_of\_activities at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
+- History\_Archives
+	- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
+- BlueMoon55\_Knowledge
+	- [GitHub - BlueMoon55/BlueMoon55\_Knowledge](https://github.com/BlueMoon55/BlueMoon55_Knowledge)
 
 ## ●「知の共有化」に関連するレポート【生成AIにより生成したドキュメント】
 
 - [生成AI時代における図書館の役割とサービスの進化](https://bluemoon55.github.io/History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf)【生成AI利用】
 - [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://bluemoon55.github.io/History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf)【生成AI利用】
 
-# ■「知の共有化」を目指した活動の軌跡【Obsidian】
+# ■「知の共有化」を目指した活動の軌跡（Obsidian）
 
 ## ●活動記録【論文等】アーカイブ
 
