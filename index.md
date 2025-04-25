@@ -6,7 +6,8 @@ created:
 updated: 2024-07-31
 source: 
 Description: 
-aliases: []
+publish_url: https://bluemoon55.github.io/
+aliases: 
 up: 
 same: 
 down: 

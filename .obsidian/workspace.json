@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,6 +247,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Repository/index.md",
     "index.md",
     "README.md",
     "Config/Scripts/toc/view 1.js",
@@ -268,7 +269,6 @@
     "History_of_activities/AI_Generation/中山正樹著作リストと要旨_.pdf",
     "History_of_activities/AI_Generation/第五次産業革命とサイバーセキュリティ_.docx",
     "History_of_activities/★知の共有化（知識インフラの構築を目指して） 1.md",
-    "Repository/index.md",
     "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
     "Config/Templates/BaseTemplate.md",
     "Config/Templates/AnnotationTemplate.md",
