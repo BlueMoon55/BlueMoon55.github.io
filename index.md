@@ -41,6 +41,8 @@ includeLinks: true
 
 ## ●活動記録【論文等】アーカイブ
 
+- [History\_Archives](https://bluemoon55.github.io/History_Archives/)
+
 ### ◆データ一覧
 
 - [[活動記録【論文等】アーカイブリスト]]
