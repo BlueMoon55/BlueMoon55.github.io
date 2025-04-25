@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "無題のファイル"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -97,8 +94,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.canvas",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "indexのアウトライン"
             }
           },
           {
@@ -251,10 +247,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "無題のファイル.canvas",
-    "index.md",
-    "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
+    "index.md",
+    "無題のファイル.canvas",
+    "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/43.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md",

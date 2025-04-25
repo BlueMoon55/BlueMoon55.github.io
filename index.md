@@ -30,6 +30,7 @@ includeLinks: true
 # ■「知の共有化」を目指した活動の軌跡貯蔵庫（Github）
 
 - [BlueMoon55.github.io/History\_of\_activities at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
+- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
 
 ## ●「知の共有化」に関連するレポート【生成AIにより生成したドキュメント】
 
@@ -40,7 +41,7 @@ includeLinks: true
 
 ## ●活動記録【論文等】アーカイブ
 
-- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
+
 - [History\_Archives Index （作成中）](https://bluemoon55.github.io/History_Archives/)
 
 ### ◆データ一覧
