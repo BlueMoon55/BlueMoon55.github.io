@@ -5,5 +5,9 @@
   "obsidian-annotator",
   "breadcrumbs",
   "homepage",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "auto-template-trigger",
+  "file-tree-alternative",
+  "obsidian-git"
 ]

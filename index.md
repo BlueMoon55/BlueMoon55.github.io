@@ -26,12 +26,16 @@ includeLinks: true
 ```
 
 [bluemoon55.github.io](https://bluemoon55.github.io/)
-# ■「知の共有化」を目指した活動の軌跡【論文等】
+
+# ■「知の共有化」を目指した活動の軌跡貯蔵庫（Github）
+
+- [BlueMoon55.github.io/History\_of\_activities at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
 
 ## ●「知の共有化」に関連するレポート【生成AIにより生成したドキュメント】
 
 - [生成AI時代における図書館の役割とサービスの進化](https://bluemoon55.github.io/History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf)【生成AI利用】
 - [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://bluemoon55.github.io/History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf)【生成AI利用】
+# ■「知の共有化」を目指した活動の軌跡【Obsidian】
 
 ## ●「知の共有化」活動記録電子書籍
 
@@ -41,14 +45,13 @@ includeLinks: true
 
 ## ●活動記録【論文等】アーカイブ
 
-- [History\_Archives](https://bluemoon55.github.io/History_Archives/)
+- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
+- [History\_Archives Index （作成中）](https://bluemoon55.github.io/History_Archives/)
 
 ### ◆データ一覧
 
 - [[活動記録【論文等】アーカイブリスト]]
 
-
-# ■「知の共有化」を目指した活動の軌跡【プレゼン資料等】
 ## ●活動記録【プレゼン資料等】アーカイブ
 
 ### ◆【20年とりまとめ】
@@ -58,14 +61,17 @@ includeLinks: true
 
 ### ◆データ一覧
 
-- [[活動記録【eプレゼン資料等】アーカイブリスト]]
+- [[活動記録【プレゼン資料等】アーカイブリスト]]
 
 # ■DX関連
+
+> [!important]  
+> 作成準備中
 
 # ■「サイバーセキュリティ」関連活動記録
 
 > [!important]  
-> サイバーセキュリティ関連のみフィルタリングしたリストビュー  
+> 作成準備中
 
 
 # ■SNS等での情報発信・情報収集
@@ -80,28 +86,3 @@ includeLinks: true
 - [https://mskn.hatenadiary.jp/](https://mskn.hatenadiary.jp/)
 - [https://www.slideshare.net/mskn55](https://www.slideshare.net/mskn55)
 
-  
-
-## ●情報収集（クリッピング）
-
-- [https://b.hatena.ne.jp/mskn/bookmark](https://b.hatena.ne.jp/mskn/bookmark)
-    - [https://b.hatena.ne.jp/mskn/interest](https://b.hatena.ne.jp/mskn/interest)
-- [https://tweetdeck.twitter.com/](https://tweetdeck.twitter.com/)
-- [https://getpocket.com/ja/my-list](https://getpocket.com/ja/my-list)
-- [https://www.pinterest.jp/](https://www.pinterest.jp/)
-- [https://note.com/](https://note.com/)
-- [https://www.weavatools.com/](https://www.weavatools.com/app/dashboard;cid=-Mt8hRSly0EjDHk2U9iH)
-
-## ●情報蓄積（ストレージ）
-
-- [https://drive.google.com/](https://drive.google.com/)
-- [https://onedrive.live.com](https://onedrive.live.com/)
-- [https://www.dropbox.com/home](https://www.dropbox.com/home)
-- [https://vscode.dev/](https://vscode.dev/)
-- [https://github.com/](https://github.com/)
-- [https://www.amazon.co.jp/](https://www.amazon.co.jp/)
-
-## ●メモランダム
-
-- [https://keep.google.com/](https://keep.google.com/)
-- [https://www.onenote.com/hrd?omkt=ja-JP](https://www.onenote.com/hrd?omkt=ja-JP)
