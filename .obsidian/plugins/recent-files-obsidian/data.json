@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "index",
+      "path": "Repository/index.md"
+    },
+    {
+      "basename": "index",
       "path": "index.md"
     },
     {
@@ -195,10 +199,6 @@
     {
       "basename": "119エマージェンシーコール",
       "path": "用語・単語の備忘録/好きな映画・番組・小説DB/119エマージェンシーコール.md"
-    },
-    {
-      "basename": "ダメマネ！ ーダメなタレント、マネジメントしますー",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/ダメマネ！ ーダメなタレント、マネジメントしますー.md"
     }
   ],
   "omittedPaths": [],

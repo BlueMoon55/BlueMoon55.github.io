@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Repository/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Repository/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -247,8 +247,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "index.md",
+    "README.md",
     "Config/Scripts/toc/view 1.js",
     "Config/Scripts/toc/view 1.css",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
