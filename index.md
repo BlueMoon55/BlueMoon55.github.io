@@ -35,13 +35,8 @@ includeLinks: true
 
 - [生成AI時代における図書館の役割とサービスの進化](https://bluemoon55.github.io/History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf)【生成AI利用】
 - [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://bluemoon55.github.io/History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf)【生成AI利用】
+
 # ■「知の共有化」を目指した活動の軌跡【Obsidian】
-
-## ●「知の共有化」活動記録電子書籍
-
-> [Memo]  
-> 未来の図書館の実現に向けて―「知の共有化」を目指した活動記録―【EPUB版】  
-> [Sharing\_Knowlege.epub](https://bluemoon55.github.io/Repository/bibi-bookshelf/Sharing_Knowlege.epub)
 
 ## ●活動記録【論文等】アーカイブ
 
@@ -50,18 +45,18 @@ includeLinks: true
 
 ### ◆データ一覧
 
-- [[活動記録【論文等】アーカイブリスト]]
+- [[活動記録【論文等】アーカイブリスト]] （Obsidian）
 
 ## ●活動記録【プレゼン資料等】アーカイブ
 
 ### ◆【20年とりまとめ】
 
-- [[【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿]]
-- [[【文書】【20年とりまとめ】【別紙】第39-40章]]
+- [[【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿]] （Obsidian）
+- [[【文書】【20年とりまとめ】【別紙】第39-40章]] （Obsidian）
 
 ### ◆データ一覧
 
-- [[活動記録【プレゼン資料等】アーカイブリスト]]
+- [[活動記録【プレゼン資料等】アーカイブリスト]] （Obsidian）
 
 # ■DX関連
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "無題のファイル.canvas"
+    },
+    {
       "basename": "執筆Markdownチートシート",
       "path": "執筆スタートセット_for_windows/参考資料など/執筆Markdownチートシート.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "アンサンブル",
       "path": "用語・単語の備忘録/好きな映画・番組・小説DB/アンサンブル.md"
-    },
-    {
-      "basename": "まどか26歳、研修医やってます！",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/まどか26歳、研修医やってます！.md"
     }
   ],
   "omittedPaths": [],

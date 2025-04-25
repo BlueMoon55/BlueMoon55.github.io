@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "無題のファイル.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-layout-dashboard",
+              "title": "無題のファイル"
             }
           }
         ]
@@ -163,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "無題のファイル.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "無題のファイルのアウトライン"
             }
           },
           {
@@ -211,9 +214,19 @@
               "icon": "BC-trail-icon",
               "title": "Breadcrumbs Matrix"
             }
+          },
+          {
+            "id": "43f455c12340a8e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -232,13 +245,15 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
+    "無題のファイル.canvas",
     "index.md",
+    "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/43.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
@@ -281,7 +296,6 @@
     "History_of_activities/活動記録【プレゼン資料等】DB/DAW40-01 図書館情報学研究 (図書館システム・オープンデータ) 【docx】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/Bib10-0602「未来の図書館を作るとは」（長尾元館長）で示されたこと【全編】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-04 ICTの急速な発展と図書館を取り巻くサービスの変革.md",
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAP42-01-2020ゼミ用【ポイント】PPT資料 【pptx】.md",
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAW19-20_知識インフラの構築.md"
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAP42-01-2020ゼミ用【ポイント】PPT資料 【pptx】.md"
   ]
 }
