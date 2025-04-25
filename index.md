@@ -25,13 +25,13 @@ maxLevel: 0
 includeLinks: true
 ```
 
-
+[bluemoon55.github.io](https://bluemoon55.github.io/)
 # ■「知の共有化」を目指した活動の軌跡【論文等】
 
 ## ●「知の共有化」に関連するレポート【生成AIにより生成したドキュメント】
 
-- [生成AI時代における図書館の役割とサービスの進化](https://drive.google.com/file/d/12ZFkr5IYjiSRozEODbV09ejTJ-Twe7hn/view?usp=drive_link)【生成AI利用】
-- [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://drive.google.com/file/d/1z_PyFbJvlzeA_IzmSlbsLsZaXbxhom0z/view?usp=drive_link)【生成A利用I】
+- [生成AI時代における図書館の役割とサービスの進化](https://bluemoon55.github.io/History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf)【生成AI利用】
+- [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://bluemoon55.github.io/History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf)【生成AI利用】
 
 ## ●「知の共有化」活動記録電子書籍
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History_of_activities/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -213,6 +213,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "History_of_activities/活動記録【論文等】アーカイブリスト.md",
+    "index.md",
+    "History_of_activities/index.md",
     "History_of_activities/AI_Generation/第五次産業革命とサイバーセキュリティ_.pdf",
     "History_of_activities/AI_Generation/index.md",
     "History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf",
@@ -224,13 +227,9 @@
     "History_of_activities/AI_Generation/第五次産業革命とサイバーセキュリティ_.docx",
     "History_of_activities/AI_Generation",
     "History_of_activities/Generation_AI/第五次産業革命とサイバーセキュリティ_.docx",
-    "History_of_activities/Generation_AI",
-    "index.md",
-    "History_of_activities/index.md",
     "History_of_activities/★知の共有化（知識インフラの構築を目指して） 1.md",
     "Repository/index.md",
     "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
-    "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "Config/Templates/BaseTemplate.md",
     "Config/Templates/AnnotationTemplate.md",
     "Config/Templates/BaseTemplate_生成AI.md",
