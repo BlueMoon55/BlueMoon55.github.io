@@ -44,13 +44,14 @@ includeLinks: true
 
 ## ●新サイト
 
-- BlueMoon55.github.io 【本サイト】
+- BlueMoon55.github.io 【本Githubサイト】
 	- [GitHub - BlueMoon55/BlueMoon55.github.io](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main)
 	- History_of_activities
-		- [BlueMoon55.github.io/History\_of\_activities at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
-			- [BlueMoon55.github.io/History\_of\_activities/活動記録【論文等】DB at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E8%AB%96%E6%96%87%E7%AD%89%E3%80%91DB)
-			- [BlueMoon55.github.io/History\_of\_activities/活動記録【プレゼン資料等】DB at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB)
-			- [BlueMoon55.github.io/History\_of\_activities/活動記録【プレゼン資料等】DB【原本】/DA40\_Seminar at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB%E3%80%90%E5%8E%9F%E6%9C%AC%E3%80%91/DA40_Seminar)
+		- [History\_of\_activities at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
+			- [活動記録【論文等】DB at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E8%AB%96%E6%96%87%E7%AD%89%E3%80%91DB)
+			- [活動記録【プレゼン資料等】DB at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB)
+			- [活動記録【プレゼン資料等】DB【原本】 at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB%E3%80%90%E5%8E%9F%E6%9C%AC%E3%80%91)
+				- [DA40\_Seminar at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB%E3%80%90%E5%8E%9F%E6%9C%AC%E3%80%91/DA40_Seminar)
 - History\_Archives 【年度別成果物】
 	- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
 - BlueMoon55\_Knowledge 【新規作成準備中】
