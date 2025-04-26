@@ -5,12 +5,20 @@
       "path": "index.md"
     },
     {
-      "basename": "index",
-      "path": "Repository/index.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "index",
+      "path": "History_of_activities/AI_Generation/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "History_of_activities/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Repository/index.md"
     },
     {
       "basename": "活動記録【eプレゼン資料等】アーカイブリスト",
@@ -187,18 +195,6 @@
     {
       "basename": "Dr.アシュラ",
       "path": "用語・単語の備忘録/好きな映画・番組・小説DB/Dr.アシュラ.md"
-    },
-    {
-      "basename": "松坂桃李",
-      "path": "用語・単語の備忘録/用語・単語DB/松坂桃李.md"
-    },
-    {
-      "basename": "問題物件",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/問題物件.md"
-    },
-    {
-      "basename": "119エマージェンシーコール",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/119エマージェンシーコール.md"
     }
   ],
   "omittedPaths": [],

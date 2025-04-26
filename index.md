@@ -42,7 +42,9 @@ includeLinks: true
 # ■「知の共有化」を目指した活動軌跡の貯蔵庫（Github）
 
 - BlueMoon55.github.io
-	- [BlueMoon55.github.io/History\_of\_activities at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
+	- [GitHub - BlueMoon55/BlueMoon55.github.io](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main)
+	- History_of_activities
+		- [BlueMoon55.github.io/History\_of\_activities at main · BlueMoon55/BlueMoon55.github.io · GitHub](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities)
 - History\_Archives
 	- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
 - BlueMoon55\_Knowledge

@@ -90,8 +90,18 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
+            }
+          },
+          {
+            "id": "1085efdbe1246019",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
         ]
@@ -177,8 +187,8 @@
             "state": {
               "type": "TwoHopLinksView",
               "state": {},
-              "icon": "network",
-              "title": "2Hop Links"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -190,39 +200,9 @@
               "icon": "lucide-file",
               "title": "新規タブ"
             }
-          },
-          {
-            "id": "a76348ecc42d7c16",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
-          },
-          {
-            "id": "d5c2967ab933a079",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
-            }
-          },
-          {
-            "id": "43f455c12340a8e7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -236,20 +216,21 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Repository/index.md",
+    "2025-04-26.md",
     "index.md",
     "README.md",
+    "History_of_activities/AI_Generation/index.md",
+    "History_of_activities/index.md",
+    "Repository/index.md",
     "Config/Scripts/toc/view 1.js",
     "Config/Scripts/toc/view 1.css",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
@@ -258,9 +239,7 @@
     "History_of_activities/活動記録【論文等】DB/43.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md",
-    "History_of_activities/index.md",
     "History_of_activities/AI_Generation/第五次産業革命とサイバーセキュリティ_.pdf",
-    "History_of_activities/AI_Generation/index.md",
     "History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf",
     "History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf",
     "History_of_activities/AI_Generation/生成AIの光と影_.pdf",
