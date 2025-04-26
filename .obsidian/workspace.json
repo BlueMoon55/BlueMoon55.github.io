@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "8c202834869eaf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】【別紙】第39-40章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【文書】【20年とりまとめ】【別紙】第39-40章"
+            }
           }
         ]
       }
@@ -220,13 +234,16 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿.md",
+    "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】【別紙】第39-40章.md",
     "index.md",
+    "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿.md",
+    "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "2025-04-26.md",
     "README.md",
     "History_of_activities/AI_Generation/index.md",
@@ -238,7 +255,6 @@
     "無題のファイル.canvas",
     "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/43.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～.md",
-    "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md",
     "History_of_activities/AI_Generation/第五次産業革命とサイバーセキュリティ_.pdf",
     "History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf",
@@ -264,7 +280,6 @@
     "History_of_activities/Extra/Untitled (1).png",
     "History_of_activities/Extra/Untitled 1 1.png",
     "History_of_activities/Extra/Untitled 9 5.png",
-    "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】【別紙】第39-40章.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-05 「知の共有化」の実現を目指した構想【2013年】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/「知の共有化」に関するドキュメント類の歴史（年次アーカイブ）【GitHub】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX20-04_AIに関する基礎知識（まとめ）.md",
