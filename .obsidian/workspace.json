@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "History_of_activities/活動記録【論文等】アーカイブリスト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "活動記録【論文等】アーカイブリスト"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "History_of_activities/活動記録【論文等】アーカイブリスト.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "活動記録【論文等】アーカイブリストのアウトライン"
             }
           },
           {
@@ -240,8 +240,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
     "index.md",
+    "README.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】【別紙】第39-40章.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿.md",
