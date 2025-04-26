@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "index",
+      "path": "Repository/index.md"
+    },
+    {
+      "basename": "index",
       "path": "index.md"
     },
     {
@@ -11,10 +15,6 @@
     {
       "basename": "活動記録【論文等】アーカイブリスト",
       "path": "History_of_activities/活動記録【論文等】アーカイブリスト.md"
-    },
-    {
-      "basename": "index",
-      "path": "Repository/index.md"
     },
     {
       "basename": "README",
