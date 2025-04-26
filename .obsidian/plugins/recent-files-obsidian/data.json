@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "22.（2013年）要件定義の必要性と人材育成（IT研修内容）",
       "path": "History_of_activities/活動記録【論文等】DB/22.（2013年）要件定義の必要性と人材育成（IT研修内容）.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "index",
       "path": "Repository/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "README",
