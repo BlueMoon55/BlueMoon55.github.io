@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "History_of_activities/index.md"
     },
     {
       "basename": "活動記録【eプレゼン資料等】アーカイブリスト",
       "path": "活動記録【eプレゼン資料等】アーカイブリスト.md"
     },
     {
-      "basename": "index",
-      "path": "Repository/index.md"
+      "basename": "生成AI時代の図書館の役割_",
+      "path": "History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "index",
-      "path": "index.md"
+      "path": "Repository/index.md"
     },
     {
       "basename": "22.（2013年）要件定義の必要性と人材育成（IT研修内容）",
@@ -35,10 +43,6 @@
     {
       "basename": "index",
       "path": "History_of_activities/AI_Generation/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "History_of_activities/index.md"
     },
     {
       "basename": "無題のファイル",
@@ -195,10 +199,6 @@
     {
       "basename": "長濱ねる",
       "path": "用語・単語の備忘録/用語・単語DB/長濱ねる.md"
-    },
-    {
-      "basename": "全領域異常解決室",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/全領域異常解決室.md"
     }
   ],
   "omittedPaths": [],

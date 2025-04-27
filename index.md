@@ -37,8 +37,8 @@ includeLinks: true
 
 ## ●「知の共有化」に関連する現状調査レポート【生成AIにより生成】
 
-- [生成AI時代における図書館の役割とサービスの進化](https://bluemoon55.github.io/History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf)【生成AI利用】
-- [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://bluemoon55.github.io/History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf)【生成AI利用】
+- [生成AI時代における図書館の役割とサービスの進化](https://bluemoon55.github.io/History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf)【生成AI利用】（2025年4月22日）
+- [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://bluemoon55.github.io/History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf)【生成AI利用】（2025年4月23日）
 
 # ■「知の共有化」を目指した活動軌跡の貯蔵庫（Github）
 

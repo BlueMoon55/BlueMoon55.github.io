@@ -30,7 +30,7 @@ includeLinks: true
 
 ## ●「知の共有化」に関連するレポート【生成AIにより生成したドキュメント】
 
-- [生成AI時代における図書館の役割とサービスの進化](https://drive.google.com/file/d/12ZFkr5IYjiSRozEODbV09ejTJ-Twe7hn/view?usp=drive_link)【生成AI利用】
+- [生成AI時代における図書館の役割とサービスの進化](https://drive.google.com/file/d/12ZFkr5IYjiSRozEODbV09ejTJ-Twe7hn/view?usp=drive_link)【生成AI利用】（2025年4月22日）
 - [AIを活用した「知の共有化」システムの方向性（2017年）の実現状況に関する評価報告書](https://drive.google.com/file/d/1z_PyFbJvlzeA_IzmSlbsLsZaXbxhom0z/view?usp=drive_link)【生成A利用I】
 
 ## ●「知の共有化」活動記録電子書籍
