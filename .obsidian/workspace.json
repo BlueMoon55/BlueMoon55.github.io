@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repository/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repository/index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "READMEのアウトライン"
             }
           },
           {
@@ -240,11 +240,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "活動記録【eプレゼン資料等】アーカイブリスト.md",
+    "README.md",
+    "Repository/index.md",
     "index.md",
     "History_of_activities/活動記録【論文等】DB/22.（2013年）要件定義の必要性と人材育成（IT研修内容）.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
-    "Repository/index.md",
-    "README.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】【別紙】第39-40章.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/【文書】【20年とりまとめ】/【文書】【20年とりまとめ】電子図書館事業20年の歩みと今後の方向性・未来の図書館の姿.md",
     "2025-04-26.md",
@@ -252,7 +253,6 @@
     "History_of_activities/index.md",
     "Config/Scripts/toc/view 1.js",
     "Config/Scripts/toc/view 1.css",
-    "活動記録【eプレゼン資料等】アーカイブリスト.md",
     "無題のファイル.canvas",
     "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/43.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～.md",
