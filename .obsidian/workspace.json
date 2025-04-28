@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Repository/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Repository/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,8 +212,8 @@
             "state": {
               "type": "TwoHopLinksView",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "network",
+              "title": "2Hop Links"
             }
           },
           {
@@ -225,19 +225,9 @@
               "icon": "lucide-file",
               "title": "新規タブ"
             }
-          },
-          {
-            "id": "b876365e124f80a5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -261,15 +251,15 @@
   },
   "active": "0f0256127140d839",
   "lastOpenFiles": [
+    "History_of_activities/index.md",
+    "index.md",
     "Repository/index.md",
     "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub",
     "Repository/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub",
-    "index.md",
     "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.pdf",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-20 【課題テーマ】今後の図書館サービスシステムの構築を考える.md",
     "Config/Templates/BaseTemplate.md",
     "README.md",
-    "History_of_activities/index.md",
     "History_of_activities/MoC_知の共有化を目指して.md",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
     "History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf",

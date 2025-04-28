@@ -1,3 +1,3 @@
-知の共有化レポジトリ
+BlueMoon55.github.io/Repository
 
 [Sharing_Repository.html](Sharing_Repository.html)　（Github WebページURL）

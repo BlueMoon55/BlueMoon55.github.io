@@ -2,11 +2,15 @@
   "recentFiles": [
     {
       "basename": "index",
-      "path": "index.md"
+      "path": "Repository/index.md"
     },
     {
       "basename": "index",
-      "path": "Repository/index.md"
+      "path": "History_of_activities/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Tokyo_CyberSecurity_HandBook_2024_Text",
@@ -27,10 +31,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "index",
-      "path": "History_of_activities/index.md"
     },
     {
       "basename": "MoC_知の共有化を目指して",
