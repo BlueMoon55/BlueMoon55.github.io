@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Repository/index.md"
+    },
+    {
       "basename": "Tokyo_CyberSecurity_HandBook_2024_Text",
       "path": "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub"
     },
     {
       "basename": "CyberSecurity.Ver.3.0a",
       "path": "Repository/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "DAX40-20 【課題テーマ】今後の図書館サービスシステムの構築を考える",
@@ -39,10 +43,6 @@
     {
       "basename": "生成AI時代の図書館の役割_",
       "path": "History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf"
-    },
-    {
-      "basename": "index",
-      "path": "Repository/index.md"
     },
     {
       "basename": "22.（2013年）要件定義の必要性と人材育成（IT研修内容）",
