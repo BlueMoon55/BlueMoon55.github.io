@@ -5,12 +5,16 @@
       "path": "index.md"
     },
     {
-      "basename": "45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」",
-      "path": "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md"
+      "basename": "活動記録【プレゼン資料等】アーカイブリスト",
+      "path": "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md"
     },
     {
       "basename": "活動記録【論文等】アーカイブリスト",
       "path": "History_of_activities/活動記録【論文等】アーカイブリスト.md"
+    },
+    {
+      "basename": "45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」",
+      "path": "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md"
     },
     {
       "basename": "index",
@@ -195,10 +199,6 @@
     {
       "basename": "あんぱん",
       "path": "用語・単語の備忘録/好きな映画・番組・小説DB/あんぱん.md"
-    },
-    {
-      "basename": "クジャクのダンス、誰が見た？",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/クジャクのダンス、誰が見た？.md"
     }
   ],
   "omittedPaths": [],
