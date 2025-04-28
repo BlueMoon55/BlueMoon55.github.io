@@ -2,15 +2,23 @@
   "recentFiles": [
     {
       "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」",
+      "path": "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md"
+    },
+    {
+      "basename": "活動記録【論文等】アーカイブリスト",
+      "path": "History_of_activities/活動記録【論文等】アーカイブリスト.md"
+    },
+    {
+      "basename": "index",
       "path": "Repository/index.md"
     },
     {
       "basename": "index",
       "path": "History_of_activities/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Tokyo_CyberSecurity_HandBook_2024_Text",
@@ -47,10 +55,6 @@
     {
       "basename": "22.（2013年）要件定義の必要性と人材育成（IT研修内容）",
       "path": "History_of_activities/活動記録【論文等】DB/22.（2013年）要件定義の必要性と人材育成（IT研修内容）.md"
-    },
-    {
-      "basename": "活動記録【論文等】アーカイブリスト",
-      "path": "History_of_activities/活動記録【論文等】アーカイブリスト.md"
     },
     {
       "basename": "【文書】【20年とりまとめ】【別紙】第39-40章",
@@ -195,10 +199,6 @@
     {
       "basename": "クジャクのダンス、誰が見た？",
       "path": "用語・単語の備忘録/好きな映画・番組・小説DB/クジャクのダンス、誰が見た？.md"
-    },
-    {
-      "basename": "御上先生",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/御上先生.md"
     }
   ],
   "omittedPaths": [],
