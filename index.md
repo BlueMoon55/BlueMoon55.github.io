@@ -2,8 +2,8 @@
 publish: true
 document ID: 
 tags: 
-created: 
-updated: 2024-07-31
+date created: 2025/04/24 16:41
+date modified: 2025/04/28 14:33
 source: 
 Description: 
 publish_url: https://bluemoon55.github.io/
@@ -12,14 +12,15 @@ up:
 same: 
 down: 
 next: 
-prev: 
-date created: 2025/04/24 16:41
-date modified: 2025/04/26 18:29
+prev:
 ---
 
-Sharing_Knowlege_活動記録公開ページ
+# ■公開サイト
 
-# ■目次
+- [bluemoon55.github.io](https://bluemoon55.github.io/)
+	- BlueMoon55が作成してきた公式ドキュメント、限定公開ドキュメントの貯蔵庫
+
+# ◆目次
 
 ```table-of-contents
 title: 
@@ -27,11 +28,6 @@ minLevel: 0
 maxLevel: 0
 includeLinks: true
 ```
-
-# ■公開サイト
-
-- [bluemoon55.github.io](https://bluemoon55.github.io/)
-	- BlueMoon55が作成してきた公式ドキュメント、限定公開ドキュメントの貯蔵庫
 
 # ■最新情報
 

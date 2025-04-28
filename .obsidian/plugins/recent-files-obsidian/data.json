@@ -2,11 +2,23 @@
   "recentFiles": [
     {
       "basename": "index",
-      "path": "History_of_activities/index.md"
+      "path": "index.md"
+    },
+    {
+      "basename": "BaseTemplate",
+      "path": "Config/Templates/BaseTemplate.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "index",
-      "path": "index.md"
+      "path": "History_of_activities/index.md"
+    },
+    {
+      "basename": "MoC_知の共有化を目指して",
+      "path": "History_of_activities/MoC_知の共有化を目指して.md"
     },
     {
       "basename": "活動記録【eプレゼン資料等】アーカイブリスト",
@@ -15,10 +27,6 @@
     {
       "basename": "生成AI時代の図書館の役割_",
       "path": "History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "影山優佳",
       "path": "用語・単語の備忘録/用語・単語DB/影山優佳.md"
-    },
-    {
-      "basename": "清野菜名",
-      "path": "用語・単語の備忘録/用語・単語DB/清野菜名.md"
-    },
-    {
-      "basename": "長濱ねる",
-      "path": "用語・単語の備忘録/用語・単語DB/長濱ねる.md"
     }
   ],
   "omittedPaths": [],

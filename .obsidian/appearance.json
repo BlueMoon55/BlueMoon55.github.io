@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "GitHub Theme",
+  "theme": "system",
+  "accentColor": "#427bff"
 }

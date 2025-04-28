@@ -5,6 +5,7 @@ document ID:
 tags: 
 date created: 
 date modified: 
+publish_url: 
 source: 
 Description: 
 aliases: 

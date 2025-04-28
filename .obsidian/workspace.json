@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History_of_activities/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History_of_activities/index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,11 +226,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Config/Templates/BaseTemplate.md",
     "index.md",
+    "README.md",
     "History_of_activities/index.md",
+    "History_of_activities/MoC_知の共有化を目指して.md",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
     "History_of_activities/AI_Generation/生成AI時代の図書館の役割_.pdf",
-    "README.md",
     "Repository/~$Sharing_Repository.mmap.~$lock",
     "Repository/index.md",
     "History_of_activities/活動記録【論文等】DB/22.（2013年）要件定義の必要性と人材育成（IT研修内容）.md",
@@ -253,7 +255,6 @@
     "History_of_activities/AI_Generation/中山正樹著作リストと要旨_.pdf",
     "History_of_activities/★知の共有化（知識インフラの構築を目指して） 1.md",
     "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
-    "Config/Templates/BaseTemplate.md",
     "Config/Templates/AnnotationTemplate.md",
     "Config/Templates/BaseTemplate_生成AI.md",
     "Config/Scripts/MoC_File_List_知の共有化関連.md",
