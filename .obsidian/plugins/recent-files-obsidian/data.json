@@ -5,6 +5,10 @@
       "path": "index.md"
     },
     {
+      "basename": "DAX40-20 【課題テーマ】今後の図書館サービスシステムの構築を考える",
+      "path": "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-20 【課題テーマ】今後の図書館サービスシステムの構築を考える.md"
+    },
+    {
       "basename": "BaseTemplate",
       "path": "Config/Templates/BaseTemplate.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "齊藤なぎさ",
       "path": "用語・単語の備忘録/用語・単語DB/齊藤なぎさ.md"
-    },
-    {
-      "basename": "影山優佳",
-      "path": "用語・単語の備忘録/用語・単語DB/影山優佳.md"
     }
   ],
   "omittedPaths": [],

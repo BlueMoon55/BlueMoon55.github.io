@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "00_Personal/01_Structure（構造）/MoC_At_Work_Index",
+      "value": "index",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

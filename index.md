@@ -20,7 +20,7 @@ prev:
 - [bluemoon55.github.io](https://bluemoon55.github.io/)
 	- BlueMoon55が作成してきた公式ドキュメント、限定公開ドキュメントの貯蔵庫
 
-# ◆目次
+## ●目次
 
 ```table-of-contents
 title: 
