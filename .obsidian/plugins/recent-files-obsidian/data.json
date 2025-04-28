@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tokyo_CyberSecurity_HandBook_2024_Text",
+      "path": "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub"
+    },
+    {
+      "basename": "CyberSecurity.Ver.3.0a",
+      "path": "Repository/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "御上先生",
       "path": "用語・単語の備忘録/好きな映画・番組・小説DB/御上先生.md"
-    },
-    {
-      "basename": "松山ケンイチ",
-      "path": "用語・単語の備忘録/用語・単語DB/松山ケンイチ.md"
-    },
-    {
-      "basename": "齊藤なぎさ",
-      "path": "用語・単語の備忘録/用語・単語DB/齊藤なぎさ.md"
     }
   ],
   "omittedPaths": [],

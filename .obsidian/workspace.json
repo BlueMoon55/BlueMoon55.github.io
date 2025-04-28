@@ -21,14 +21,12 @@
             "id": "42375e506d4e0243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "epub",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "doc-epub",
+              "title": "Tokyo_CyberSecurity_HandBook_2024_Text"
             }
           }
         ],
@@ -183,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "Tokyo_CyberSecurity_HandBook_2024_Textのアウトライン"
             }
           },
           {
@@ -247,8 +245,11 @@
   },
   "active": "42375e506d4e0243",
   "lastOpenFiles": [
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-20 【課題テーマ】今後の図書館サービスシステムの構築を考える.md",
+    "Repository/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub",
     "index.md",
+    "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.pdf",
+    "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub",
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-20 【課題テーマ】今後の図書館サービスシステムの構築を考える.md",
     "Config/Templates/BaseTemplate.md",
     "README.md",
     "History_of_activities/index.md",
@@ -272,9 +273,6 @@
     "History_of_activities/AI_Generation/第五次産業革命とサイバーセキュリティ_.pdf",
     "History_of_activities/AI_Generation/AI知の共有化実現度調査_.pdf",
     "History_of_activities/AI_Generation/生成AIの光と影_.pdf",
-    "History_of_activities/AI_Generation/AIによる知の共有化の展望_.pdf",
-    "History_of_activities/AI_Generation/未来の図書館 探求と考察_.pdf",
-    "History_of_activities/AI_Generation/中山正樹著作リストと要旨_.pdf",
     "History_of_activities/★知の共有化（知識インフラの構築を目指して） 1.md",
     "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
     "Config/Templates/AnnotationTemplate.md",
@@ -292,7 +290,6 @@
     "History_of_activities/Extra/Untitled 9 5.png",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-05 「知の共有化」の実現を目指した構想【2013年】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/「知の共有化」に関するドキュメント類の歴史（年次アーカイブ）【GitHub】.md",
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAX20-04_AIに関する基礎知識（まとめ）.md",
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAW40-01 図書館情報学研究 (図書館システム・オープンデータ) 【docx】.md"
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAX20-04_AIに関する基礎知識（まとめ）.md"
   ]
 }
