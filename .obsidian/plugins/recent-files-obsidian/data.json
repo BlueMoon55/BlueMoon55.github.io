@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "★知の共有化（知識インフラの構築を目指して）",
+      "path": "★知の共有化（知識インフラの構築を目指して）.md"
+    },
+    {
       "basename": "44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】",
       "path": "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」",
       "path": "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "DAX40-01_図書館情報学研究(図書館システム・オープンデータ) 【ゼミ資料索引】",
@@ -195,10 +199,6 @@
     {
       "basename": "宮沢美恵",
       "path": "用語・単語の備忘録/用語・単語DB/宮沢美恵.md"
-    },
-    {
-      "basename": "Windows VS Code + Markdown で スッと電子書籍を執筆する本  ORM ねこの遊び庭",
-      "path": "執筆スタートセット_for_windows/Windows VS Code + Markdown で スッと電子書籍を執筆する本  ORM ねこの遊び庭.md"
     }
   ],
   "omittedPaths": [],
