@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―のアウトライン"
             }
           },
           {
@@ -255,17 +255,20 @@
   },
   "active": "1ffbb985f0b19ff8",
   "lastOpenFiles": [
-    "★知の共有化（知識インフラの構築を目指して）.md",
+    "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "index.md",
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-06-1 「知の共有化」システムと開発標準（共通フレームワーク）.md",
+    "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-01_図書館情報学研究(図書館システム・オープンデータ) 【ゼミ資料索引】.md",
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-03-01 電子図書館サービスの実用化.md",
+    "History_of_activities/活動記録【プレゼン資料等】DB/DAW19-20_知識インフラの構築.md",
+    "★知の共有化（知識インフラの構築を目指して）.md",
     "index - コピー.md",
     "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
-    "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md",
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-01_図書館情報学研究(図書館システム・オープンデータ) 【ゼミ資料索引】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX25-20-04【書籍】 AI白書2019_第4章制度政策動向.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX20-04_AIに関する基礎知識（まとめ）.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAW40-01 図書館情報学研究 (図書館システム・オープンデータ) 【docx】.md",
-    "History_of_activities/活動記録【プレゼン資料等】DB/DAW19-20_知識インフラの構築.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAW05-00【抜粋】政府の新しいガイドラインによる開発と人材育成.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAP42-01-2020ゼミ用【ポイント】PPT資料 【pptx】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ.md",
@@ -279,9 +282,6 @@
     "README.md",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
     "History_of_activities/index.md",
-    "Repository/index.md",
-    "History_of_activities/★知の共有化（知識インフラの構築を目指して） 1.md",
-    "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md",
     "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub",
     "Repository/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub",
     "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.pdf",
