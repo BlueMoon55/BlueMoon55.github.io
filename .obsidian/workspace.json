@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―"
+              "title": "index"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―のアウトライン"
+              "title": "indexのアウトライン"
             }
           },
           {
@@ -255,6 +255,7 @@
   },
   "active": "1ffbb985f0b19ff8",
   "lastOpenFiles": [
+    "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
     "index.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-06-1 「知の共有化」システムと開発標準（共通フレームワーク）.md",
@@ -281,7 +282,6 @@
     "無題のファイル.canvas",
     "README.md",
     "活動記録【eプレゼン資料等】アーカイブリスト.md",
-    "History_of_activities/index.md",
     "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub",
     "Repository/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub",
     "Repository/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.pdf",
