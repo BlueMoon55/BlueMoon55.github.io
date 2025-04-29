@@ -3,7 +3,7 @@ publish: true
 document ID: 
 tags: 
 date created: 2025/04/24 16:41
-date modified: 2025/04/28 14:33
+date modified: 2025/04/29 10:39
 source: 
 Description: 
 publish_url: https://bluemoon55.github.io/
@@ -49,8 +49,8 @@ includeLinks: true
 			- [活動記録【プレゼン資料等】DB](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB)【Githubフォルダー】
 			- [活動記録【プレゼン資料等】DB【原本】](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB%E3%80%90%E5%8E%9F%E6%9C%AC%E3%80%91)【Githubフォルダー】
 				- [DA40\_Seminar at main](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E3%80%90%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E8%B3%87%E6%96%99%E7%AD%89%E3%80%91DB%E3%80%90%E5%8E%9F%E6%9C%AC%E3%80%91/DA40_Seminar)
-			-  [活動記録【論文等】アーカイブリスト.md](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/活動記録【論文等】アーカイブリスト.md)
-			-  [活動記録【プレゼン資料等】アーカイブリスト.md](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md)
+			- [活動記録【論文等】アーカイブリスト.md](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/活動記録【論文等】アーカイブリスト.md)
+			- [活動記録【プレゼン資料等】アーカイブリスト.md](https://github.com/BlueMoon55/BlueMoon55.github.io/tree/main/History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md)
 - History\_Archives 【年度別成果物】
 	- [GitHub - BlueMoon55/History\_Archives: History\_Archives](https://github.com/BlueMoon55/History_Archives)
 - BlueMoon55\_Knowledge 【新規作成準備中】
@@ -107,6 +107,39 @@ includeLinks: true
 
 > [!important]
 > 作成準備中
+
+## ●ガイドブック『中小企業向けサイバーセキュリティ対策の極意』
+
+本ガイドブックは、中小企業の経営者、責任者に向けて作成された小冊子です。
+
+- [**PDF版 Ver.3.0（2025.2.14更新） ダウンロード［約78.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/CyberSecurity.Ver.3.0.pdf)
+- **EPUBリフロー版**
+    - [**Ver.3.0a（2025.3.3更新）ブラウザ内での閲覧［約38.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=CyberSecurity.Ver.3.0a.epub)
+        - ※表示されない場合は、ブラウザのリロードをお試しください
+    - [**Ver.3.0a（2025.3.3更新） ダウンロード［約38.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub)
+    - [※【参考】EPUB形式の電子書籍ビューアの紹介](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/336/index.html)
+- **Web版**
+    - [**Ver.3.0a（2025.2.18更新）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/579/index.html)
+
+## ●ハンドブック『中小企業向けサイバーセキュリティの実践ハンドブック』～中小企業も安心！セキュリティ対策でDXを加速～
+
+本ハンドブックは、組織内におけるシステム管理者等（システム管理などの実務に責任を持つ方々）に向けて作成された小冊子です。
+社会の動向、特にDXを理解し、IT化を進める際に必要なセキュリティ対策の全容を体系的に把握したうえで、自組織の状況に応じて必要な対策を選択して実践するための参考書（レファレンスブック）として活用されることを想定しています。
+
+### 2024年版
+
+- **ハンドブック**
+    - [**Web版【外部サイト】（2025.4.7更新）**](https://tcyss2.github.io/HandBook/summary.html)
+    - [**PDF版（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Text.pdf)
+    - [**Word版（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Text.docx)
+    - **EPUB版（2025.4.17 公開）**
+        - [**ブラウザ内での閲覧［約24.7MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=Tokyo_CyberSecurity_HandBook_2024_Text.epub)
+            - ※表示されない場合は、ブラウザのリロードをお試しください
+        - [**ダウンロード［約24.7MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub)
+    - [【参考】参考文献・引用文献一覧【中小企業向けサイバーセキュリティの実践ハンドブック2024年版 】（2025.4.18 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/KnowLedge/596/index.html)
+- **プレゼンテーション用スライド**
+    - [**スライド（PowerPoint版）（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Slide.pptx)
+    - [**スライド（PDF版）（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Slide.pdf)
 
 # ■SNS等での情報発信・情報収集
 
