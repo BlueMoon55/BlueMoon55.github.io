@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MoC_At_Work_Index",
+      "path": "MoC_At_Work_Index.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "業務報告（2025年4月14日）",
       "path": "業務報告/2025FY/業務報告（2025年4月14日）.md"
-    },
-    {
-      "basename": "MoC_Top_Index",
-      "path": "00_Personal/00_Fleeting（未分類）/Notes/MoC_Top_Index.md"
     }
   ],
   "omittedPaths": [],
