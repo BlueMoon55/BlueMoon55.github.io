@@ -15,5 +15,6 @@
   "templater-obsidian",
   "automatic-table-of-contents",
   "obsidian-epub-plugin",
-  "obsidian-quiet-outline"
+  "obsidian-quiet-outline",
+  "obsidian-git"
 ]
