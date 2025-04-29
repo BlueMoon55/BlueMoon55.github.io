@@ -5,6 +5,10 @@
       "path": "index.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―",
       "path": "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ【Jekyll版】",
       "path": "History_of_activities/活動記録【プレゼン資料等】DB/「サイバーセキュリティ」に関する公開ドキュメントの一覧ページ【Jekyll版】.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "index",

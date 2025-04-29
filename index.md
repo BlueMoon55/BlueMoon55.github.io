@@ -5,7 +5,7 @@ tags:
 date created: 2025/04/24 16:41
 date modified: 2025/04/29 10:39
 source: 
-Description: 
+Description: " BlueMoon55が作成してきた公式ドキュメント、限定公開ドキュメントの貯蔵庫。Obsidianで作成し、Githubで公開。"
 publish_url: https://bluemoon55.github.io/
 aliases: 
 up: 
