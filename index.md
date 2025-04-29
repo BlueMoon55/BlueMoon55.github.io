@@ -112,11 +112,11 @@ includeLinks: true
 
 本ガイドブックは、中小企業の経営者、責任者に向けて作成された小冊子です。
 
-- PDF版 Ver.3.0（2025.2.14更新） ダウンロード［約78.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/CyberSecurity.Ver.3.0.pdf)
+- [PDF版 Ver.3.0（2025.2.14更新） ダウンロード［約78.0MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/CyberSecurity.Ver.3.0.pdf)
 - EPUBリフロー版
 	- [Ver.3.0a（2025.3.3更新）ブラウザ内での閲覧［約38.0MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=CyberSecurity.Ver.3.0a.epub)
-	- ※表示されない場合は、ブラウザのリロードをお試しください
-- [Ver.3.0a（2025.3.3更新） ダウンロード［約38.0MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub)
+		- ※表示されない場合は、ブラウザのリロードをお試しください
+	- [Ver.3.0a（2025.3.3更新） ダウンロード［約38.0MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub)
 	- [※【参考】EPUB形式の電子書籍ビューアの紹介](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/336/index.html)
 - Web版
 	- [Ver.3.0a（2025.2.18更新）](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/579/index.html)
