@@ -5,24 +5,40 @@
       "path": "index.md"
     },
     {
-      "basename": "活動記録【プレゼン資料等】アーカイブリスト",
-      "path": "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md"
-    },
-    {
-      "basename": "活動記録【論文等】アーカイブリスト",
-      "path": "History_of_activities/活動記録【論文等】アーカイブリスト.md"
-    },
-    {
       "basename": "45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」",
       "path": "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md"
+    },
+    {
+      "basename": "index",
+      "path": "History_of_activities/index.md"
     },
     {
       "basename": "index",
       "path": "Repository/index.md"
     },
     {
-      "basename": "index",
-      "path": "History_of_activities/index.md"
+      "basename": "★知の共有化（知識インフラの構築を目指して） 1",
+      "path": "History_of_activities/★知の共有化（知識インフラの構築を目指して） 1.md"
+    },
+    {
+      "basename": "活動記録【プレゼン資料等】アーカイブリスト",
+      "path": "History_of_activities/活動記録【プレゼン資料等】アーカイブリスト.md"
+    },
+    {
+      "basename": "長尾真先生を忍んで",
+      "path": "History_of_activities/長尾真先生を忍んで.md"
+    },
+    {
+      "basename": "活動記録【論文等】アーカイブリスト",
+      "path": "History_of_activities/活動記録【論文等】アーカイブリスト.md"
+    },
+    {
+      "basename": "活動記録【論文等】アーカイブリスト 1",
+      "path": "History_of_activities/活動記録【論文等】アーカイブリスト 1.md"
+    },
+    {
+      "basename": "MoC_知の共有化を目指して",
+      "path": "History_of_activities/MoC_知の共有化を目指して.md"
     },
     {
       "basename": "Tokyo_CyberSecurity_HandBook_2024_Text",
@@ -43,10 +59,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "MoC_知の共有化を目指して",
-      "path": "History_of_activities/MoC_知の共有化を目指して.md"
     },
     {
       "basename": "活動記録【eプレゼン資料等】アーカイブリスト",
@@ -187,18 +199,6 @@
     {
       "basename": "持ち物チェックリスト（金沢・福井旅行）",
       "path": "00_Personal/06_Projects/2025金沢・福井旅行/持ち物チェックリスト（金沢・福井旅行）.md"
-    },
-    {
-      "basename": "R7年度切替時確認事項",
-      "path": "70_サイバーセキュリティ関連事業/R7_全般/R7年度切替時確認事項.md"
-    },
-    {
-      "basename": "キャスター",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/キャスター.md"
-    },
-    {
-      "basename": "あんぱん",
-      "path": "用語・単語の備忘録/好きな映画・番組・小説DB/あんぱん.md"
     }
   ],
   "omittedPaths": [],
