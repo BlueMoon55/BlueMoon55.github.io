@@ -112,14 +112,14 @@ includeLinks: true
 
 本ガイドブックは、中小企業の経営者、責任者に向けて作成された小冊子です。
 
-- [**PDF版 Ver.3.0（2025.2.14更新） ダウンロード［約78.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/CyberSecurity.Ver.3.0.pdf)
-- **EPUBリフロー版**
-    - [**Ver.3.0a（2025.3.3更新）ブラウザ内での閲覧［約38.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=CyberSecurity.Ver.3.0a.epub)
-        - ※表示されない場合は、ブラウザのリロードをお試しください
-    - [**Ver.3.0a（2025.3.3更新） ダウンロード［約38.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub)
-    - [※【参考】EPUB形式の電子書籍ビューアの紹介](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/336/index.html)
-- **Web版**
-    - [**Ver.3.0a（2025.2.18更新）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/579/index.html)
+- PDF版 Ver.3.0（2025.2.14更新） ダウンロード［約78.0MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/CyberSecurity.Ver.3.0.pdf)
+- EPUBリフロー版
+	- [Ver.3.0a（2025.3.3更新）ブラウザ内での閲覧［約38.0MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=CyberSecurity.Ver.3.0a.epub)
+	- ※表示されない場合は、ブラウザのリロードをお試しください
+- [Ver.3.0a（2025.3.3更新） ダウンロード［約38.0MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/CyberSecurity.Ver.3.0a.epub)
+	- [※【参考】EPUB形式の電子書籍ビューアの紹介](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/336/index.html)
+- Web版
+	- [Ver.3.0a（2025.2.18更新）](https://www.cybersecurity.metro.tokyo.lg.jp/security/guidebook/579/index.html)
 
 ## ●ハンドブック『中小企業向けサイバーセキュリティの実践ハンドブック』～中小企業も安心！セキュリティ対策でDXを加速～
 
@@ -128,18 +128,18 @@ includeLinks: true
 
 ### 2024年版
 
-- **ハンドブック**
-    - [**Web版【外部サイト】（2025.4.7更新）**](https://tcyss2.github.io/HandBook/summary.html)
-    - [**PDF版（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Text.pdf)
-    - [**Word版（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Text.docx)
-    - **EPUB版（2025.4.17 公開）**
-        - [**ブラウザ内での閲覧［約24.7MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=Tokyo_CyberSecurity_HandBook_2024_Text.epub)
-            - ※表示されない場合は、ブラウザのリロードをお試しください
-        - [**ダウンロード［約24.7MB］**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub)
-    - [【参考】参考文献・引用文献一覧【中小企業向けサイバーセキュリティの実践ハンドブック2024年版 】（2025.4.18 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/KnowLedge/596/index.html)
-- **プレゼンテーション用スライド**
-    - [**スライド（PowerPoint版）（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Slide.pptx)
-    - [**スライド（PDF版）（2025.3.19 公開）**](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Slide.pdf)
+- ハンドブック
+	- [Web版【外部サイト】（2025.4.7更新）](https://tcyss2.github.io/HandBook/summary.html)
+	- [PDF版（2025.3.19 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Text.pdf)
+	- [Word版（2025.3.19 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Text.docx)
+	- EPUB版（2025.4.17 公開）
+		- [ブラウザ内での閲覧［約24.7MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi/?book=Tokyo_CyberSecurity_HandBook_2024_Text.epub)
+			- ※表示されない場合は、ブラウザのリロードをお試しください
+		- [ダウンロード［約24.7MB］](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/bibi-bookshelf/Tokyo_CyberSecurity_HandBook_2024_Text.epub)
+	- [【参考】参考文献・引用文献一覧【中小企業向けサイバーセキュリティの実践ハンドブック2024年版 】（2025.4.18 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/KnowLedge/596/index.html)
+- プレゼンテーション用スライド
+	- [スライド（PowerPoint版）（2025.3.19 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Slide.pptx)
+	- [スライド（PDF版）（2025.3.19 公開）](https://www.cybersecurity.metro.tokyo.lg.jp/security/docs/Tokyo_CyberSecurity_HandBook_2024_Slide.pdf)
 
 # ■SNS等での情報発信・情報収集
 
