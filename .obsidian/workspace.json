@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "atwork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ffbb985f0b19ff8",
+  "active": "d6f364e430a29010",
   "lastOpenFiles": [
     "index.md",
     "MoC_At_Work_Index.md",
