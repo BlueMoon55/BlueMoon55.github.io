@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "MoC_At_Work_Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "MoC_At_Work_Index"
             }
           }
         ]
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "MoC_At_Work_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "indexのアウトライン"
+              "title": "MoC_At_Work_Indexのアウトライン"
             }
           },
           {
@@ -227,8 +227,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MoC_At_Work_Index.md",
     "index.md",
+    "MoC_At_Work_Index.md",
     "README.md",
     "History_of_activities/活動記録【論文等】DB/32.電子図書館サービスからナショナルアーカイブの構築へ ―LOD化によるデジタル文化財の利活用を目指して―.md",
     "History_of_activities/活動記録【論文等】アーカイブリスト.md",
