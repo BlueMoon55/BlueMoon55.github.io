@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★知の共有化（知識インフラの構築を目指して）.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "★知の共有化（知識インフラの構築を目指して）"
+              "title": "index"
             }
           }
         ]
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★知の共有化（知識インフラの構築を目指して）.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "★知の共有化（知識インフラの構築を目指して）のアウトライン"
+              "title": "indexのアウトライン"
             }
           },
           {
@@ -227,6 +227,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "★知の共有化（知識インフラの構築を目指して）.md",
     "MoC_At_Work_Index.md",
     "index.md",
     "README.md",
@@ -237,7 +238,6 @@
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-01_図書館情報学研究(図書館システム・オープンデータ) 【ゼミ資料索引】.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAX40-03-01 電子図書館サービスの実用化.md",
     "History_of_activities/活動記録【プレゼン資料等】DB/DAW19-20_知識インフラの構築.md",
-    "★知の共有化（知識インフラの構築を目指して）.md",
     "index - コピー.md",
     "History_of_activities/活動記録【論文等】DB/44.国立国会図書館電子図書館サービスの発展 ～長尾真先生を偲んで～【寄稿版】.md",
     "History_of_activities/活動記録【論文等】DB/45.「安江さんを偲んで ー NDLの電子図書館中期計画の策定を推進」.md",
